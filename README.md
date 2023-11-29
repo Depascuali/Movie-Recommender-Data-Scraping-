@@ -79,3 +79,6 @@ print(f"Su película es: \033[1;91m{pelicula_aleatoria}\033[0m, puedes ver mas a
 Su película es: Snowpiercer, puedes ver mas aqui: https://www.rottentomatoes.com/m/Snowpiercer
 
 In case the user, after analyzing the movie through the URL, is not convinced, they can rerun the code to get another movie.
+
+
+Tomas Depascuali
